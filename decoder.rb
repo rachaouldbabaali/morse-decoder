@@ -41,5 +41,5 @@ class MorseCodeDecoder
   end
 end
 
-puts MorseCodeDecoder.decode('-- -.--   -. .- -- .') # MY NAME
-puts MorseCodeDecoder.decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...') # A BOX FULL OF RUBIES
+puts MorseCodeDecoder.decode('-- -.--   -. .- -- .')
+puts MorseCodeDecoder.decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
